@@ -56,4 +56,4 @@ const styles = StyleSheet.create({
   },
 });
 
-// Left off at 3:02:07
+// Left off at ...
